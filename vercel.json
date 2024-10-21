@@ -4,4 +4,3 @@
     { "source": "/(.*)", "destination": "/frontend/build/index.html" }
   ]
 }
-
