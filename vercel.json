@@ -4,5 +4,3 @@
     { "source": "/(.*)", "destination": "/frontend/build/index.html" }
   ]
 }
-```[_{{{CITATION{{{_3{Resolving 'UncaughtSyntaxError: Unexpected token <' in main.js during ...](https://devcodef1.com/news/1307169/fixing-unexpected-token-error-in-main-js)
-
